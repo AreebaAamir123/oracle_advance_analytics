@@ -29,3 +29,12 @@ Each script focuses on one analytics pattern:
 | 4 | **Part-to-Whole** | What % of total sales does each category contribute? |
 | 5 | **Data Segmentation** | How do we group customers/products into meaningful tiers? |
 | 6 | **Reporting** | How do we summarize the business in a single view? |
+
+## Repo 
+
+├── 01_change_over_time.sql          
+├── 02_cumulative_analysis.sql       
+├── 03_performance_analysis.sql      
+├── 04_part_to_whole.sql             
+├── 05_data_segmentation.sql         
+└── 06_customer_report.sql            
