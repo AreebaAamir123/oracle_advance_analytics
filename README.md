@@ -5,10 +5,14 @@ This folder contains six analytical patterns commonly used in real
 Business Intelligence work — all written in **Oracle SQL** using
 window functions, aggregations, and time-based grouping.
 
+
 Every query here reads from `gold.fact_sales` and its associated
 dimensions (`gold.dim_customers`, `gold.dim_products`) — the reporting
 layer of an upstream Data Warehouse project built with the Medallion
-Architecture from  (Data Warehouse Project.)[https://github.com/AreebaAamir123/sql-oracle-data-warehouse]
+Architecture.
+
+
+(DWH Repo) [https://github.com/AreebaAamir123/sql-oracle-data-warehouse]
 ---
 
 ## 🎯 Purpose
